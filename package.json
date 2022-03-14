@@ -1,0 +1,7 @@
+{
+  "name": "com.ipmovers.app.mavshack",
+  "description": "Mavshack",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.8.1"
+  }
+}

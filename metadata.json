@@ -1,0 +1,6 @@
+{
+  "name": "Mavshack",
+  "identifier": "com.ipmovers.app.mavshack",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}
